@@ -1,0 +1,25 @@
+{
+  "name": "viewverse-backend",
+  "version": "1.0.0",
+  "description": "ViewVerse Backend: Elevate your video-sharing platform with our Node.js-powered solution for seamless streaming and dynamic content management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-m-prabhat/ViewVerse-Backend.git"
+  },
+  "keywords": [
+    "javaScript",
+    "backend",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Prabhat Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-m-prabhat/ViewVerse-Backend/issues"
+  },
+  "homepage": "https://github.com/i-m-prabhat/ViewVerse-Backend#readme"
+}
